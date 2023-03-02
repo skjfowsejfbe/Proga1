@@ -1,0 +1,10 @@
+C:\Users\alyao\source\repos\pproga1\pproga1\bin\Debug\pproga1.exe.config
+C:\Users\alyao\source\repos\pproga1\pproga1\bin\Debug\pproga1.exe
+C:\Users\alyao\source\repos\pproga1\pproga1\bin\Debug\pproga1.pdb
+C:\Users\alyao\source\repos\pproga1\pproga1\obj\Debug\pproga1.csproj.AssemblyReference.cache
+C:\Users\alyao\source\repos\pproga1\pproga1\obj\Debug\pproga1.Form1.resources
+C:\Users\alyao\source\repos\pproga1\pproga1\obj\Debug\pproga1.Properties.Resources.resources
+C:\Users\alyao\source\repos\pproga1\pproga1\obj\Debug\pproga1.csproj.GenerateResource.cache
+C:\Users\alyao\source\repos\pproga1\pproga1\obj\Debug\pproga1.csproj.CoreCompileInputs.cache
+C:\Users\alyao\source\repos\pproga1\pproga1\obj\Debug\pproga1.exe
+C:\Users\alyao\source\repos\pproga1\pproga1\obj\Debug\pproga1.pdb
